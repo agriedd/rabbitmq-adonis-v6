@@ -39,7 +39,7 @@
     "index:commands": "adonis-kit index build/commands",
     "format": "prettier --write ."
   },
-  "author": "Miguel Vargas",
+  "contributors": ["Miguel Vargas"],
   "prettier": {
     "trailingComma": "es5",
     "semi": false,
