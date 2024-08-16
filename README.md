@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-Install `rabbitmq-adonis-v6`:
+Install `edd-rabbitmq-adonis-v6`:
 
 ```
 npm i rabbitmq-adonis-v6
