@@ -7,7 +7,7 @@
 Install `edd-rabbitmq-adonis-v6`:
 
 ```
-npm i rabbitmq-adonis-v6
+npm i edd-rabbitmq-adonis-v6
 ```
 
 Then:
