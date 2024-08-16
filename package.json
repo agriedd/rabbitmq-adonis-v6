@@ -18,13 +18,13 @@
     "./rabbitmq_provider": "./build/providers/rabbitmq_provider.js"
   },
   "license": "MIT",
-  "homepage": "https://github.com/mvargaslandolfi1993/rabbitmq-adonis-v6.git#readme",
+  "homepage": "https://github.com/agriedd/rabbitmq-adonis-v6.git#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mvargaslandolfi1993/rabbitmq-adonis-v6.git"
+    "url": "git+https://github.com/agriedd/rabbitmq-adonis-v6.git"
   },
   "bugs": {
-    "url": "https://github.com/mvargaslandolfi1993/rabbitmq-adonis-v6.git/issues"
+    "url": "https://github.com/agriedd/rabbitmq-adonis-v6.git/issues"
   },
   "keywords": [
     "adonis",
