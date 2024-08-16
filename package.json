@@ -1,5 +1,5 @@
 {
-  "name": "rabbitmq-adonis-v6",
+  "name": "edd-rabbitmq-adonis-v6",
   "version": "1.0.8",
   "description": "AdonisJS RabbitMQ provider",
   "main": "build/index.js",
